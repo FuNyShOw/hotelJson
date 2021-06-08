@@ -1,35 +1,14 @@
 {
 "hotels": [{
     "id" : "026ccbae-27e4-11e6-afa7-536abd83599c",
-    "type" : "hotel",
     "name" : "The Maxwell Hotel - Pineapple Hospitality",
-    "created" : 1464777092809,
-    "modified" : 1464777092809,
     "address1" : "300 Roy St",
-    "airportCode" : "SEA",
-    "amenityMask" : 7798786,
     "city" : "Seattle",
     "confidenceRating" : 95,
-    "countryCode" : "US",
-    "deepLink" : "http://www.travelnow.com/templates/55505/hotels/342070/overview?lang=en&amp;currency=USD&amp;standardCheckin=null/null/null&amp;standardCheckout=null/null/null",
-    "highRate" : 289,
-    "hotelId" : 342070,
-    "hotelInDestination" : true,
-    "hotelRating" : 3,
-    "location" : {
-      "latitude" : 47.62561,
-      "longitude" : -122.35129
-    },
     "locationDescription" : "Near Pacific Northwest Ballet",
-    "lowRate" : 229,
     "metadata" : {
       "path" : "/hotels/026ccbae-27e4-11e6-afa7-536abd83599c"
     },
-    "postalCode" : 98109,
-    "propertyCategory" : 1,
-    "proximityDistance" : 12.074359,
-    "proximityUnit" : "MI",
-    "rateCurrencyCode" : "USD",
     "shortDescription" : "With a stay at The Maxwell Hotel - Pineapple Hospitality, you&apos;ll be centrally located in Seattle, steps from Pacific Northwest Ballet and Teatro ZinZanni. This",
     "stateProvinceCode" : "WA",
     "thumbNailUrl" : "/thumbnails/3445681_43_t.jpg",
